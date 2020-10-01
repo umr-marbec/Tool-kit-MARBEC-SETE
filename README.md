@@ -16,7 +16,7 @@ Pour l'obtention d'un compte Datarmor, contactez Nicolas Barrier (nicolas.barrie
 
 ## Documentation Marbec
 
-Une documentation en ligne est disponible [ici](https://fr.overleaf.com/read/tnshpyrgvgxn)
+Une documentation en ligne est disponible [ici](https://github.com/umr-marbec/datarmor-documentation) **(contacter nicolas.barrier@ird.fr pour obtenir l'acces)**
 
 # Litterature grise
 

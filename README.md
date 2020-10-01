@@ -9,7 +9,7 @@ Voici quelques les infos pour bien démarrer ainsi que pour voguer vers d'auters
 
 ## Creation de compte
 
-Pour l'obtention d'un compte Datarmor, contactez Nicolas Barrier (nicolas.barrier@ird.fr) ou Monique Simier (monique.simier@ird).fr en donnant:
+Pour l'obtention d'un compte Datarmor, contactez Nicolas Barrier (nicolas.barrier@ird.fr) ou Monique Simier (monique.simier@ird.fr) en donnant:
 - Une description du projet
 - Vos noms et prenoms
 - Une adresse mail et un numero de telephone.

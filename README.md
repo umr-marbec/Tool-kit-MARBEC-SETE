@@ -14,9 +14,13 @@ Pour l'obtention d'un compte Datarmor, contactez Nicolas Barrier (nicolas.barrie
 - Vos noms et prenoms
 - Une adresse mail et un numero de telephone.
 
-## Documentation Marbec
+## Documentation Datarmor
 
 Une documentation en ligne est disponible [ici](https://github.com/umr-marbec/datarmor-documentation) **(contacter nicolas.barrier@ird.fr pour obtenir l'acces)**
+
+## Reservation de salle
+
+Une documentation en ligne pour la reservation de salle est disponible [ici](https://github.com/umr-marbec/room-reservation) **(contacter nicolas.barrier@ird.fr pour obtenir l'acces)**
 
 # Litterature grise
 
